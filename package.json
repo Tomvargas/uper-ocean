@@ -10,8 +10,31 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tomvargas/uper-ocean"
+    },
+    "bugs": {
+        "url": "https://github.com/Tomvargas/uper-ocean/issues",
+        "email": "tomvargasd@gmail.com"
+    },
+    "galleryBanner": {
+        "color": "#06151B",
+        "theme": "dark"
+    },
+    "icon": "images/logo.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark theme",
+        "tomvargas",
+        "ocean",
+        "vscode theme",
+        "blue",
+        "purple",
+        "deep",
+        "teal"
     ],
     "contributes": {
         "themes": [
