@@ -2,13 +2,13 @@
     "name": "upper-ocean-dark",
     "displayName": "upper ocean",
     "description": "dark ocean theme",
-    "version": "0.0.2",
+    "version": "1.0.1",
     "publisher": "tomvargas",
     "author": {
         "name": "tomás vargas"
     },
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.66.0"
     },
     "repository": {
         "type": "git",
